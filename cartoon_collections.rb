@@ -5,6 +5,7 @@ def greet_characters(array)
   total = 0
   array.each do |dwarves|
     puts "Hello |dwarves|!"
+    total += 1
   end
 end
 
