@@ -18,3 +18,4 @@ def list_dwarves(array)
   hash[item] = index
 }
 end
+end
